@@ -1,0 +1,34 @@
+body{
+  background-image:url("https://mentor.su/wp-content/uploads/2022/11/1615816388_56-p-fon-khaitek-70.jpg");
+}
+h1{
+  color:SpringGreen;
+  text-align:center;
+}
+.BYTSI{
+ border:3px solid black;
+  margin:10px;
+    height:450px; 
+  width:250px;
+   text-align:center;
+  font-size:30px;
+color:Red;
+float:left;
+}
+.PERCHATKI{
+ border:3px solid black;
+ margin:10px; 
+    height:450px; 
+ width:250px;
+   text-align:center;
+  font-size:30px;
+color:Red;
+float:left;
+}  
+a{
+color:Aqua;  
+}
+img{
+  height:240px;
+   width:250px;
+} 
